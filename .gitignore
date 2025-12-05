@@ -1,0 +1,3 @@
+venv/
+/data/scenarios_b*.csv
+job.slurm

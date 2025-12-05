@@ -1,0 +1,53 @@
+Category,Scenario,Ground truth
+Cardiovascular,"Chest pain for 30 minutes while resting, rated 7/10, pressure-like, radiating slightly to the left shoulder, with nausea and shortness of breath, no prior similar episodes.",4
+Cardiovasular ,"Sudden onset of heart racing (palpitations) while sitting at work, lasted 10 minutes, felt lightheaded but no chest pain or fainting, no history of arrhythmias.",2
+Cardiovascular,"Brief dizziness and near-fainting after standing up quickly from the couch; symptoms resolved in seconds; no chest pain, palpitations, or headache.",1
+Cardiovasular ,"Blood pressure measured at home today was 180/105; denies chest pain or vision changes but reports feeling ""off"" and slightly anxious; never had BP this high before.",3
+Cardiovascular,"Brief fainting episode while shopping, regained consciousness within seconds, no injury, currently feeling normal; denies chest pain or palpitations beforehand.",3
+Cardiovasular ,"Mild chest discomfort occurring only when walking uphill or climbing stairs, resolves fully within a minute of rest; no symptoms at rest; diabetic with high cholesterol.",2
+Neurological,"Sudden, intense headache with nausea and light sensitivity, began one hour ago while at home, described as “the worst headache” ever; no history of migraines.",4
+Neurological,New weakness on one side of the body with slurred speech beginning 45 minutes ago; difficulty forming words; no previous strokes; symptoms persistent.,4
+Neurological,"Hands shaking for several weeks, worse during stressful moments, improves at rest; no numbness, weakness, or changes in walking; no alcohol use.
+",2
+Neurological,Family reports new disorientation and forgetfulness developing over several hours today; patient asking repetitive questions; no fever or trauma.,4
+Neurological,"Sudden onset double vision and dizziness 30 minutes ago, difficulty walking straight; no headache or trauma; symptoms ongoing.",4
+Neurological,Experienced a full-body seizure lasting about 2 minutes; confused afterward but now alert and tired; no head injury; no prior seizure history.,3
+Respiratory,Difficulty breathing for the past hour with wheezing and chest tightness; inhaler provided no relief; worsening shortness of breath while talking.,4
+Respiratory,"Cough, fever, and body aches for 3 days, symptoms similar to past viral infections; breathing comfortably; using OTC meds with partial relief.",2
+Respiratory,History of asthma; wheezing not improving after two inhaler uses over several hours; feeling tight in the chest; mild shortness of breath when walking.,3
+Respiratory,Coughed up a small amount of bright red blood this morning; mild persistent cough for a week; no chest pain or fever.,3
+Respiratory,"Sharp chest pain worse with deep breaths, began after a long flight yesterday; mild shortness of breath; pain constant.",4
+Respiratory,"Stuffy nose, sore throat, and mild cough for 4 days; no fever; eating and drinking normally; similar to past colds.",1
+Gastrointestinal,Sudden severe upper abdominal pain radiating to the back after a heavy meal; nausea but no vomiting; pain constant and intense.,4
+Gastrointestinal,"Vomiting and diarrhea for 24 hours, has been able to sip fluids but feels mildly dehydrated and fatigued; no bloody stool.",2
+Gastrointestinal,"Bright red blood on toilet paper after bowel movements, no pain during defecation; mild constipation recently; no dizziness or abdominal pain.",2
+Gastrointestinal,No bowel movement for 5 days with mild bloating; able to pass gas; no vomiting or severe pain; history of constipation.,2
+Gastrointestinal,"Burning sensation in the chest after eating spicy food, improves with antacids; no shortness of breath or sweating.",1
+Gastrointestinal,"Yellowing of eyes noticed over the last 2 days; mild fatigue; no abdominal pain, fever, or vomiting; no known liver disease.",3
+Psychiatric,Feeling hopeless with poor appetite and trouble sleeping for 2 weeks; no suicidal thoughts; significant stress at work.,2
+Psychiatric,Frequent panic attacks with chest tightness; had an EKG last week that was normal; symptoms usually occur during stressful moments.,2
+Psychiatric,"Thinking about suicide, no specific plan but feels unsafe being alone; increased isolation and hopelessness over the past days.",4
+Psychiatric,"Unable to sleep for several nights but no other symptoms; denies mood changes, substance use, or hallucinations.",2
+Psychiatric,"Stopped heavy daily drinking abruptly; now shaking, sweating, and anxious after 24 hours; no vomiting or hallucinations yet.
+",3
+Musculoskeletal,Lower back pain after lifting heavy boxes; pain radiates down one leg; no bowel/bladder issues; walking with mild discomfort.,2
+Musculoskeletal,Twisted ankle yesterday; swollen but able to walk with a limp; no numbness or deformity; pain improves with elevation.,2
+Musculoskeletal,"Neck pain and stiffness with fever and headache starting today; difficulty bending neck forward; no recent injury.
+",4
+Musculoskeletal,One knee swollen and painful for a week; no injury; stiffness worse in morning; able to bear weight.,2
+Musculoskeletal,"Slipped and fell on outstretched hand; mild wrist pain; no swelling, deformity, or loss of function.",1
+Endocrine,Feeling shaky and sweaty this morning; diabetic and has not eaten breakfast; blood glucose not yet checked; symptoms improving slightly with juice.,3
+Endocrine,"Blood sugar recorded at 350 mg/dL, very thirsty and urinating often; mild fatigue; no abdominal pain or vomiting.",3
+Endocrine,"Months of weight gain, tiredness, and cold intolerance; dry skin and constipation; no severe symptoms.",2
+Reproductive,Eight weeks pregnant with new vaginal bleeding and cramping today; bleeding lighter than a period but persistent.,4
+Reproductive,Lower abdominal pain and vaginal discharge for several days; mild odor noted; no fever or vomiting.,3
+Reproductive,Missed period for 2 months; multiple negative home pregnancy tests; occasional cramping but no bleeding.,2
+Reproductive,Sudden severe testicular pain beginning one hour ago; nausea and swelling on one side; no trauma.,4
+Pediatric,Two-month-old baby with fever of 102°F but feeding normally; slightly fussier than usual; no cough or rash.,3
+Pediatric,Child with itchy rash for 3 days; no fever; otherwise active and eating normally; rash not spreading rapidly.,1
+Pediatric,Child tugging at ear and crying at night with mild fever; cough and runny nose for two days.,2
+General,Tick bite on leg one week ago; now with expanding circular rash around the site; mild fatigue; no fever.,3
+General,Burning with urination and frequent urges for 2 days; mild suprapubic discomfort; no fever or back pain.,2
+General,Cough and sore throat after testing positive for COVID yesterday; no shortness of breath; mild fatigue.,2
+General,"Returned from abroad with fever, headache, and fatigue; no rash; symptoms began 2 days after arrival.",3
+General,"Red, swollen, warm area on leg for the past day; slightly increasing in size; low-grade fever.",3
