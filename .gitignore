@@ -1,3 +1,4 @@
 venv/
-/data/scenarios_b*.csv
+/data/scenarios_built/
+/data/scenarios_scored/
 job.slurm

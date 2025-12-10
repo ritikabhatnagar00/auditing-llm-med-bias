@@ -5,8 +5,10 @@ from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
 
 MODEL_DIR = "/scratch/network/rb5539/hf_models/mistral-7b-instruct-v0.3"
 
-INPUT_CSV  = os.path.join("../data/scenarios_built.csv")
-OUTPUT_CSV = os.path.join("../data/scenarios_built_mistral.csv")
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+INPUT_CSV  = os.path.join(BASE_DIR, "data", "scenarios_built.csv")
+OUTPUT_CSV = os.path.join(BASE_DIR, "data", "scenarios_built_mistral.csv")
 
 PROMPT_COLUMN = "Prompt"
 
